@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trần Thiên Trí
-- 👀 I’m interested in working with Agile team in semiconductor and microelectronic field.
+- 👀 I’m interested in working with cross-team in semiconductor and microelectronic or software development fields.
 - 🌱 I’m currently learning some language programming such as C/C++, MATLAB Simulink and Python for my career path today and tomorrow.
-- 💞️ I’m looking to collaborate on worldwide company of which develop my current expertise is that Electronic QA QC and Hardware Design Engineering.
+- 💞️ I’m looking to collaborate on worldwide company of which develop my current expertise is that Electronic QA Hardware and Software Design Engineering.
 - 📫 How to reach me is to be following my background profile here.
 
 <!---
